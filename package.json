@@ -1,0 +1,13 @@
+{
+  "name": "ILoveSVG.md",
+  "version": "0.0.1",
+  "description": "Quick talk for fronguys day",
+  "scripts": {
+    "start": "cleaver watch README.md"
+  },
+  "author": "Adrien Gibrat <agibrat@frontguys.fr>",
+  "license": "MIT",
+  "devDependencies": {
+    "cleaver": "0.8.7"
+  }
+}
